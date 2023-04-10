@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am WONG Ching Nam Geoff and I am currently a Computer Engineering student in CUHK. 
 
 <!--
 **cnwong1/cnwong1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
